@@ -26,3 +26,5 @@ You can also control fake admin players. Use 'Admin name blacklist' to specify w
   "Check spam names": true
 }
   </code></pre>
+  
+  Join discord https://discord.gg/NczmeTg to keep in touch about updates and new free plugins
